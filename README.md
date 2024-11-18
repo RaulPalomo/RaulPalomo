@@ -1,5 +1,5 @@
 ## Bienvenidos a mi GitHub 👋
-Me llamo Raúl Palomo Sánchez i me considero un **programador junior full stack**.
+Me llamo Raúl Palomo Sánchez y me considero un **programador junior full stack**.
 - 🔴 Actualmente estoy desarrollando un videojuego que ayude a detectar el daltonismo en niños/as.
 - 🎓 Estoy cursando el segundo año de **Desarrollo de aplicaciones multiplataforma con videojuegos**, grado superior, en el Instituto Tecnológico de Barcelona.
 - 😆 Intento dar lo mejor de mí en cada proyecto y me encanta el trabajo en equipo.
