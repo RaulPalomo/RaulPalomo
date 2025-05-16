@@ -1,4 +1,4 @@
-## Bienvenidos a mi GitHub 👋
+## Bienvenido a mi GitHub 👋
 Me llamo Raúl Palomo Sánchez y soy **programador junior full stack**.
 - 🎓 Estoy cursando el segundo año de **Desarrollo de aplicaciones multiplataforma con videojuegos**, grado superior, en el Instituto Tecnológico de Barcelona.
 - 😆 Intento dar lo mejor de mí en cada proyecto y me encanta el trabajo en equipo.
